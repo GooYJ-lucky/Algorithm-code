@@ -1,5 +1,8 @@
 import java.util.ArrayList;
 import java.util.Iterator;
+/*
+* 给定一串字符串，输出其中的IP地址
+* */
 
 public class IpUtil {
     public static ArrayList<String> strings = new ArrayList<>();
